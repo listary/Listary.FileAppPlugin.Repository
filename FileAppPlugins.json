@@ -2,5 +2,9 @@
     {
         "repository": "https://github.com/listary/Listary.FileAppPlugin.WinRAR.git",
         "commitId": "1fe568d97a31181e7f9660ff117cb15c00c0cea1"
+    },
+    {
+        "repository": "https://github.com/listary/Listary.FileAppPlugin.WPS.git",
+        "commitId": "0df09d06c2059a86b903fb4561e7bb545cd20c0b"
     }
 ]
