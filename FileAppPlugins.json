@@ -6,5 +6,9 @@
     {
         "repository": "https://github.com/listary/Listary.FileAppPlugin.WPS.git",
         "commitId": "0df09d06c2059a86b903fb4561e7bb545cd20c0b"
+    },
+    {
+        "repository": "https://github.com/wany-oh/Listary.FileAppPlugin.Explzh.git",
+        "commitId": "a9a77b7e44e7fc986ddd13a7e462658535d47ec2"
     }
 ]
