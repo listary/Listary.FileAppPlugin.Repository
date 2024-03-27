@@ -10,5 +10,9 @@
     {
         "repository": "https://github.com/wany-oh/Listary.FileAppPlugin.Explzh.git",
         "commitId": "a9a77b7e44e7fc986ddd13a7e462658535d47ec2"
+    },
+    {
+        "repository": "https://github.com/listary/Listary.FileAppPlugin.OneCommander.git",
+        "commitId": "fcd14750de09c0e9fa30756ecc84f8dc722382f4"
     }
 ]
