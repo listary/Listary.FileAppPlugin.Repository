@@ -14,5 +14,9 @@
     {
         "repository": "https://github.com/listary/Listary.FileAppPlugin.OneCommander.git",
         "commitId": "fcd14750de09c0e9fa30756ecc84f8dc722382f4"
+    },
+    {
+        "repository": "https://github.com/files-community/Listary.FileAppPlugin.Files.git",
+        "commitId": "e0ae7a11a8cbe156d59ff8447197294cb6709330"
     }
 ]
