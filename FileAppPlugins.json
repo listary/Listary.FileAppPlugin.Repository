@@ -18,5 +18,9 @@
     {
         "repository": "https://github.com/files-community/Listary.FileAppPlugin.Files.git",
         "commitId": "6a558da7d6d2eafb0839b3c04353c8972d4b500a"
+    },
+    {
+        "repository": "https://github.com/scriptkitz/Listary.FileAppPlugin.TablacusExplorer.git",
+        "commitId": "3e27906665794152bfb9d7153e9af04f09bd3d38"
     }
 ]
