@@ -18,5 +18,9 @@
     {
         "repository": "https://github.com/files-community/Listary.FileAppPlugin.Files.git",
         "commitId": "7ad26ad98af06fea7a16f2f6121e97bb4ab07359"
+    },
+    {
+        "repository": "https://github.com/AidenTHu/Listary.FileAppPlugin.FilePilot.git",
+        "commitId": "17551b86aa165e617f3d55b2da0c444514d7dfd0"
     }
 ]
