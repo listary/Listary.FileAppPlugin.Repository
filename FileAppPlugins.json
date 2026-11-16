@@ -22,5 +22,9 @@
     {
         "repository": "https://github.com/AidenTHu/Listary.FileAppPlugin.FilePilot.git",
         "commitId": "979cb7cbdfd5ede0a80adb7fa22c59c26b79a625"
+    },
+    {
+        "repository": "https://github.com/Tessoa/Listary.FileAppPlugin.Tessoa.git",
+        "commitId": "03631bde410e9ca47b73a71507917bbded63958d"
     }
 ]
